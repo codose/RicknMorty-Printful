@@ -2,7 +2,7 @@
 
 An App that fetches Rick and Morty characters from the Rick and Morty API
 
-<a href="https://appdistribution.firebase.dev/i/9905dd28247bd77a"><img alt="Get it on Firebase Distribution" src="https://commons.wikimedia.org/wiki/File:Google_Drive_-_New_Logo.png" height=60px /></a>
+<a href="https://appdistribution.firebase.dev/i/9905dd28247bd77a"><img alt="Get it on Firebase Distribution" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png"/></a>
 
 
 ## Major Libraries Used 
