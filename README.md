@@ -13,7 +13,7 @@ An App that fetches Rick and Morty characters from the Rick and Morty API
 * [Glide](https://github.com/bumptech/glide)
 
 ## API Used
-* [Rick and Morty API](hhttps://rickandmortyapi.com/)
+* [Rick and Morty API](https://rickandmortyapi.com/)
 
 
 ## Contributors
