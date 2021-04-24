@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "130137346534",
+    "project_id": "printful-test-c7d60",
+    "storage_bucket": "printful-test-c7d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130137346534:android:2996591d4e4068828f0627",
+        "android_client_info": {
+          "package_name": "com.ogie.printfultest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130137346534-qbfu7pumetonh887r1hkli4s6bchtr49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ogie.printfultest",
+            "certificate_hash": "9766b1fd28c9447cb91f65284b88d9884d1e3f1f"
+          }
+        },
+        {
+          "client_id": "130137346534-c8f97ejo6h81ue7vq7v3r3pmtbgi813s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmIynaRx2gh9Kz1WvoyFHbxkxV4OJe2rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130137346534-c8f97ejo6h81ue7vq7v3r3pmtbgi813s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
